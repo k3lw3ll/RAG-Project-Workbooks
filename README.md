@@ -1,4 +1,4 @@
-Retrieval-Augmented Generation (RAG) Project Workbook
+Retrieval-Augmented Generation (RAG) Project Workbooks
 
 Welcome to my project repository! 🎉
 
