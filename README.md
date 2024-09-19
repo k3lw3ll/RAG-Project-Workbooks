@@ -1,4 +1,5 @@
 Retrieval-Augmented Generation (RAG) Project Workbook
+
 Welcome to my project repository! 🎉
 
 In this project, I’ve built Retrieval-Augmented Generation (RAG) systems that run locally on Windows, leveraging Weaviate and Elasticsearch as vector databases and Hugging Face models for document retrieval and natural language processing (NLP).
