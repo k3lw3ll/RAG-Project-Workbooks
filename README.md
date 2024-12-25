@@ -1,40 +1,51 @@
-# Retrieval-Augmented Generation (RAG) Project Workbook
+Retrieval-Augmented Generation (RAG) Project Workbook
+Welcome to my project repository! :tada:
 
-Welcome to my project repository! 🎉
+Here, I’m exploring and building Retrieval-Augmented Generation (RAG) systems that run locally on Windows, using vector databases (primarily Weaviate, sometimes Elasticsearch) and Hugging Face models for document retrieval and natural language processing (NLP).
 
-In this project, I’ve built **Retrieval-Augmented Generation (RAG)** systems that run locally on Windows, leveraging **Weaviate** and **Elasticsearch** as vector databases and **Hugging Face models** for document retrieval and natural language processing (NLP).
+:mag: Project Overview
+A RAG system typically:
 
-## 🔍 Project Overview:
-This RAG system is designed to:
+Stores and indexes meeting transcripts in a vector database.
+Enables fast semantic search through vector embeddings.
+Generates natural language responses to questions, leveraging retrieved documents as context.
+:notebook_with_decorative_cover: Current Focus: TicTec & Version 3
+I now have three different versions of the Weaviate workbook in this repo, but Version 3 is the one you want if you’re following the TicTec learning series.
 
-- Store and index meeting transcripts in a vector database.
-- Enable fast semantic search through vector embeddings.
-- Generate natural language responses to questions based on retrieved documents.
+RAG_Local_HF_Weaviate_v3 (TicTec Edition)
+Actively maintained and aligned with the TicTec articles.
+Guides you step-by-step to build a local RAG system with Weaviate, Python, and Hugging Face.
+The older workbooks remain for archival/legacy purposes:
 
-## 📝 Available Workbooks:
-You now have two options for building your RAG system, depending on your preference for the vector database:
+Weaviate - RAG_Local_HF_Weaviate_v2.pdf
+Previous beginner-friendly guide, still functional but no longer the primary focus.
+Elasticsearch - RAG_Local_HF_Elastic_v1.pdf
+An alternative approach using Elasticsearch for vector storage.
+(I may reorganize these files in the near future for clarity, but v3 is your best bet if you’re following along with TicTec.)
 
-1. **Weaviate** - [RAG_Local_HF_Weaviate_v2.pdf](./RAG_Local_HF_Weaviate_v2.pdf)
-   - Updated for beginners, with a more streamlined guide to running Weaviate for local search.
-   
-2. **Elasticsearch** - [RAG_Local_HF_Elastic_v1.pdf](./RAG_Local_HF_Elastic_v1.pdf)
-   - Introduces Elasticsearch as an alternative vector database with full instructions for setup.
+:rocket: How to Get Started
+Download or clone this repository.
+Open RAG_Local_HF_Weaviate_v3.md (or .pdf if you prefer) to follow the latest instructions.
+Read the corresponding TicTec articles for context and step-by-step guidance.
+Customize the system for your own use cases—anything from meeting transcripts to knowledge bases!
+:file_folder: Other Items in This Repo
+Project Constellation Prompts:
 
-Both workbooks walk you through the process of:
+LISA (LinkedIn Strategic Advisor)
+PHIL (Personal Health Information Liaison)
+These are standalone ChatGPT prompts exploring AI advisory roles. They’re currently part of the broader “Project Constellation,” which focuses on specialized AI assistants in different domains.
+Misc. In-Progress Files:
+This repo is a work in progress—some documents may be experimental or for future expansions (e.g., advanced Docker setups, additional Python scripts, or specialized retrieval workflows).
 
-- Setting up your development environment
-- Running a vector database locally (Weaviate or Elasticsearch)
-- Integrating Hugging Face models for language generation
-- Building a functional RAG system that can process and retrieve meeting transcripts
+:handshake: Connect with Me
+If you have questions, feedback, or want to collaborate:
 
-## 🚀 How to Get Started:
-1. Download one of the workbooks listed above.
-2. Follow the step-by-step instructions for your chosen RAG system.
-3. Customize the system to fit your own use case or dataset!
+LinkedIn: My LinkedIn Profile
+Issues & PRs: Feel free to open an issue or make a pull request here on GitHub if you spot errors or have improvements.
+:bulb: Future Plans
+More TicTec Integration: I’ll continue updating RAG_Local_HF_Weaviate_v3 with each new TicTec “week” (Docker, Python, etc.).
+Refining the Repo Structure: Expect reorganized folders, additional scripts, and perhaps a better naming scheme for all versions of the workbook.
+Expanding Project Constellation: LISA and PHIL will be refined, and new specialized AI prompts might join them.
+Stay tuned—there’s plenty more to come!
 
-## 📄 Project Workbooks:
-- [RAG Workbook: Weaviate](./RAG_Local_HF_Weaviate_v2.pdf)
-- [RAG Workbook: Elasticsearch](./RAG_Local_HF_Elastic_v1.pdf)
-
-## 🤝 Connect with Me:
-If you have any questions, feedback, or are interested in collaborating, feel free to connect with me on LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/kelwell)
+Thanks for stopping by and happy learning!
