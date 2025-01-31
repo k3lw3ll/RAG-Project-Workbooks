@@ -1,3 +1,14 @@
-title: The Lo-Fi AI Collection & Tic-Tec Labs
-description: Building with AI, one track at a time. Explore Lo-Fi AI, Tic-Tec, and cutting-edge tools.
-theme: jekyll-theme-minimal
+title: "Ken Elwell's AI Collection"
+description: "Exploring AI through Lo-Fi AI discographies, Tic-Tec projects, and B-Side explorations."
+theme: jekyll-theme-minimal  # Or jekyll-theme-cayman for a more visual style
+baseurl: ""  # Keep this empty unless hosted in a subfolder
+url: "https://k3lw3ll.github.io/RAG-Project-Workbooks/"  # Replace with your actual GitHub Pages URL
+
+# Enable navigation links
+header_pages:
+  - index.md
+  - lo-fi-ai.md
+  - tic-tec.md
+  - tec-tools.md
+  - b-sides.md
+  - about.md
