@@ -15,7 +15,6 @@ title: Lo-Fi AI Discography
 6. 🎵 **[High-Fidelity Dreams, Lo-Fi Realities](https://www.linkedin.com/pulse/track-6-high-fidelity-dreams-lo-fi-realities-ken-elwell-oiwqc/)**
 7. 🎵 **[Happy Little Accidents](https://www.linkedin.com/pulse/track-7-happy-little-accidents-embracing-imperfection-ken-elwell-avjyc/)**
 8. 🎵 **[AI as a Practice, Not a Product](https://www.linkedin.com/pulse/track-8-ai-practice-product-ken-elwell-lt6pc/)**
-...
 
 ## Volume 2: The Mindful Machine (Vinyl)
 1. 🎵 **[The Doors of Perception](https://www.linkedin.com/pulse/doors-human-ai-perception-ken-elwell-m7occ/)**  
@@ -28,7 +27,6 @@ title: Lo-Fi AI Discography
 8. 🎵 **[The Edge of Self](https://www.linkedin.com/pulse/edge-self-limits-awareness-ken-elwell-skenc/)**
 9. 🎵 **[Consciousness Unplugged](https://www.linkedin.com/pulse/consciousness-unplugged-can-ai-truly-think-ken-elwell-qnq6c/)**
 10. 🎵 **[Mirror to the Future](https://www.linkedin.com/pulse/mirror-future-ai-us-ken-elwell-modtc/)**
-...
 
 ## Volume 3: Portable Paradigms (Cassette)
 1. 🎵 **[Extended Realities](https://www.linkedin.com/pulse/extended-realities-ken-elwell-2fi2c/)**
