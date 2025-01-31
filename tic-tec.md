@@ -26,7 +26,6 @@ title: Tic-Tec Project
 17. **[The Art of Retrieval: Semantic Search in Action](https://www.linkedin.com/pulse/art-retrieval-semantic-search-action-ken-elwell-vuenc/)**
 18. **[Text Magic: Introducing Hugging Face Models](https://www.linkedin.com/pulse/text-magic-introducing-hugging-face-models-ken-elwell-xzxyc/)**
 19. **[Building a RAG Workflow: Bringing Weaviate & Hugging Face Together](https://www.linkedin.com/pulse/building-rag-workflow-bringing-weaviate-hugging-face-together-elwell-f04zc/)**
-...
 
 ## 📒 **Lab Workbook Download**  
 [Download the Tic-Tec Lab Workbook (PDF)](RAG_Local_HF_Weaviate_v3 (TicTec Lab Workbook).pdf) 
