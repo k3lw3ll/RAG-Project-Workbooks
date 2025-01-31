@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tic-Tec Project: Build Your Own Local AI
+title: Tic-Tec Project
 ---
 
 # 🏗️ Tic-Tec Project: Build Your Own Local AI  
