@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tec-Tools: AI Tools
+title: Tec-Tools
 ---
 
 # 🛠️ Tec-Tools: AI Tools & Reviews  
