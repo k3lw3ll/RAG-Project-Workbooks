@@ -11,6 +11,7 @@ Explore AI insights through **Lo-Fi AI’s musical structure**, **Tic-Tec’s ha
 ## 🚀 Explore the Collection:
 - 🎶 [**Lo-Fi AI: The Discography**](lo-fi-ai.md)  
 - 🏗️ [**Tic-Tec: Build Your Own Local AI**](tic-tec.md)  
-- 🔍 [**Tec-Tools: AI Tools & Reviews**](tec-tools.md)  
+- 🔍 [**Tec-Tools: AI Tools & Reviews**](tec-tools.md)
+- 🟣 [**Purple Collar Work**](purplecollar.md). 
 - 🎭 [**B-Sides & Standalone Series**](b-sides.md)  
 - 🌎 [**About & Contact**](about.md)  
