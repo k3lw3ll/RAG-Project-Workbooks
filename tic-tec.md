@@ -28,4 +28,4 @@ title: Tic-Tec Project
 19. **[Building a RAG Workflow: Bringing Weaviate & Hugging Face Together](https://www.linkedin.com/pulse/building-rag-workflow-bringing-weaviate-hugging-face-together-elwell-f04zc/)**
 
 ## 📒 **Lab Workbook Download**  
-[Download the Tic-Tec Lab Workbook (PDF)](RAG_Local_HF_Weaviate_v3 (TicTec Lab Workbook).pdf) 
+[Download the Tic-Tec Lab Workbook (PDF)]([RAG_Local_HF_Weaviate_v3 (TicTec Lab Workbook).pdf](https://k3lw3ll.github.io/RAG-Project-Workbooks/)) 
